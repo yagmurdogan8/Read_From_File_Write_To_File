@@ -1,0 +1,1 @@
+Average of the elements of the array is: 0.0The maximum value is: 0The minimum value is: 0
